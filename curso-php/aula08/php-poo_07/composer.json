@@ -1,0 +1,9 @@
+{
+    "name" : "tiago/exemplo",
+    "description" : "Exemplo PHP com POO, Composer e Autoload de Classes",
+    "autoload" : {
+        "psr-4": {
+            "Exemplo\\" : "src/"
+        }
+    }
+}
