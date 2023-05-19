@@ -1,0 +1,10 @@
+{
+    "name":"tiago/impacta",
+    "description":"Projeto Sales Tec",
+    "autoload": {
+        "psr-4": {
+            "Impacta\\":"src/"
+        },
+        "files": ["lib/funcoes.php"]
+    }
+}
